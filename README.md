@@ -17,7 +17,7 @@ Preprocess Block:
 
 Preprocess Ground Truth Block:
 1) All phrases are padded with start(<) and end(<) token respectively.
-2) All phrses are padded with p at the end to make them of equal length
+2) All phrases are padded with p at the end to make them of equal length
 
 Split Data Block:
 Splits the data into Training and Validation Set
