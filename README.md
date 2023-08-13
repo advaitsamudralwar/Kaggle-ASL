@@ -1,4 +1,4 @@
-# Kaggle-American-Sign-Language-Transformer
+# Google - American Sign Language Fingerspelling Recognition Kaggle Research Code Competition
 
 Approach:
 Converting mediapipe landmarks coordinates sequences into mediapipe handmodel image sequences for translating American sign langugage 
