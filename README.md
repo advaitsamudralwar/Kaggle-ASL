@@ -16,7 +16,7 @@ Preprocess Block:
 3) For efficiency the hand images and phrases are converted to TF Records.
 
 Preprocess Ground Truth Block:
-1) All phrases are padded with start(<) and end(<) token respectively.
+1) All phrases are padded with start(<) and end(>) token respectively.
 2) All phrases are padded with p at the end to make them of equal length
 
 Split Data Block:
