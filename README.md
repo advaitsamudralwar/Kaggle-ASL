@@ -8,7 +8,7 @@ Mediapipe get_hand Block:
 Extracts righthand and lefthand landmark coordinates and convert them to images of size 256 x 256
 
 Preprocess Block:
-1) Extracts right-left and pose coordinates.
+1) Extracts right-left hand and pose coordinates.
 2) Choose a dominant hand based on NaN values. The hand with minimum number of NaN value is selected. Incase both the hands
    have all NaN values, right hand (Choosen randomly) is selected as the dominant hand.
 3) Maximum number of sequence frames are 413, so incase of sequence frame length lower than that, blank frames are added to the
